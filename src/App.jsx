@@ -33,7 +33,7 @@ function App() {
   }, []);
   return (
     <>
-      <div className="container-fluid p-5 overflow-hidden">
+      <div className="container-fluid overflow-hidden">
         <div className="row">
           <div className="col-12 ">
             <NavBar />
@@ -42,7 +42,7 @@ function App() {
         <div className="row frow justify-content-center">
           <div className="col-lg-5 d-flex justify-content-center align-items-end">
             <div
-              className="p-5"
+              className=""
               data-aos="fade-right"
               data-aos-anchor="#example-anchor"
               data-aos-offset="1000"
