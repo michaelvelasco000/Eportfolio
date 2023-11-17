@@ -34,7 +34,7 @@ function App() {
   return (
     <>
         <NavBar />
-           <div className="container-fluid p-5 overflow-hidden">
+           <div className="container-fluid overflow-hidden">
       
    
         <div className="row frow justify-content-center">
