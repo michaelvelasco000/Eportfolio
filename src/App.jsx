@@ -44,8 +44,6 @@ function App() {
             <div
               className=""
               data-aos="fade-right"
-              data-aos-anchor="#example-anchor"
-              data-aos-offset="1000"
               data-aos-duration="1000"
               style={{ borderLeft: "solid 10px yellow", marginBottom: "2rem" }}
             >
@@ -139,8 +137,7 @@ function App() {
 
             <img
               data-aos="fade-left"
-              data-aos-anchor="#example-anchor"
-              data-aos-offset="1000"
+         
               data-aos-duration="1000"
               src={myImage}
               alt=""
