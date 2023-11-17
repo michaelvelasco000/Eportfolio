@@ -37,8 +37,8 @@ function App() {
            <div className="container-fluid overflow-hidden">
       
    
-        <div className="row frow justify-content-center">
-          <div className="col-lg-5 d-flex justify-content-center align-items-end">
+        <div className="row frow  justify-content-center">
+          <div className="col-lg-5 mb-5 d-flex justify-content-center align-items-end">
             <div
               className=""
               data-aos="fade-right"
