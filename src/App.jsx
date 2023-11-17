@@ -41,7 +41,7 @@ function App() {
           </div>
         </div>
    
-        <div className="row mt-5 frow justify-content-center">
+        <div className="row frow justify-content-center">
           <div className="col-lg-5 d-flex justify-content-center align-items-end">
             <div
               className=""
