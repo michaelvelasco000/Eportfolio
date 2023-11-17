@@ -33,13 +33,9 @@ function App() {
   }, []);
   return (
     <>
-
+        <NavBar />
            <div className="container-fluid p-5 overflow-hidden">
-        <div className="row">
-          <div className="col-12 ">
-            <NavBar />
-          </div>
-        </div>
+      
    
         <div className="row frow justify-content-center">
           <div className="col-lg-5 d-flex justify-content-center align-items-end">
