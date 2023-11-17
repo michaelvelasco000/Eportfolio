@@ -33,7 +33,7 @@ function App() {
   }, []);
   return (
     <>
-      <div className="container-fluid overflow-hidden">
+      <div className="container-fluid p-5 overflow-hidden">
         <div className="row">
           <div className="col-12 ">
             <NavBar />
