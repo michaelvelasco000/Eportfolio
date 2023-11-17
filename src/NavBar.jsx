@@ -3,7 +3,7 @@ import React from "react";
 function NavBar() {
   return (
     <>
-      <nav class="navbar navbar-expand-lg bg-transparent fixed-top">
+      <nav class="navbar navbar-expand-lg bg-transparent fixed-top position-relative">
         <div class="container-fluid">
           <a class="navbar-brand" href="#" style={{ color: "white" }}>
             {"<"}4RIAN {">"}
